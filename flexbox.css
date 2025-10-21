@@ -1,0 +1,19 @@
+header{
+    background-color: rgb(81, 12, 146);
+}
+main{
+    background-color: rgb(74, 180, 180);
+    display: flex;
+}
+aside{
+    background-color: #8a1515;
+
+}
+main>div>section{
+    background-color: aqua;
+    padding: 10px;
+
+}
+footer{
+    background-color:blueviolet ;
+}
